@@ -28,8 +28,8 @@
 일단 영상부터 프로젝트에 포함시키자
 
 프로젝트 명은 HarryPotterNewsPaper로 했고, SceneKit를 선택해줬다.
+<img width="1398" alt="스크린샷 2024-02-24 오전 10 27 43" src="https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/10b76476-89f0-4bc9-9161-cbf767ffe147">
 
-<img width="1398" alt="스크린샷 2024-02-24 오전 10 27 43" src="https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/60d2a5be-0b1f-437a-a05b-d52b22634118">
 
 동영상 넣을 때 꼭 **Add to targets** 선택하기!
 
@@ -42,7 +42,7 @@
 저번에도 그랬듯이 사이즈를 정해주지 않으면 에러가 나기 때문에
 
 사이즈를 꼭 정해준다! (너비나 높이 둘 중 하나만 정하면 자동으로 정해준다)
-<img width="1126" alt="스크린샷 2024-02-24 오전 10 35 37" src="https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/dd9255c0-fff1-473d-b01a-d31e13ac761e">
+<img width="1126" alt="스크린샷 2024-02-24 오전 10 35 37" src="https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/cb0d1d02-ed3b-4ddf-8923-27e32ac8c493">
 
 
 이러면 이제 리소스는 준비 끝!
@@ -235,5 +235,8 @@ func addVideo() -> SKScene { //SKScene으로 리턴
 - 해리포터 앱을 켜면!
   
 
-https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/37417a2c-5df6-4359-ab29-b537dd09ca15
+
+https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/5e65916b-d981-4cad-9443-89a2fe39336b
+
+
 
