@@ -1,7 +1,8 @@
 # SpriteKit_HarryPotterNewsPaper_APP
 해리포터 예언자 일보 만들기 앱!
 <br>
-![HPNewsPaper](https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/8ce0fa43-9a3f-4bcf-96da-cb8b9d5f25c9)
+![hRry](https://github.com/jinyongyun/SpriteKit_HarryPotterNewsPaper_APP/assets/102133961/df3489a4-bcca-4a98-9401-e64d6757683e)
+
 
 
 저번에는 2D 이미지를 인식해서 3D 모델(뚱이)를 띄워보았다.
